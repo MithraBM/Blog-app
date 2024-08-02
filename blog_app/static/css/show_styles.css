@@ -1,0 +1,44 @@
+.title_head1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(235, 202, 202);
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+
+.show_blogs {
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.3)), url("/static/images/blog-bg.jpg");    
+    color: white;
+    height:fit-content;
+    padding: 100px 0 0 0;
+    font-size: large;
+
+    /* div {
+        display: inline-flex;
+    } */
+}
+.head_blog {
+    color: crimson;
+}
+
+.head_datas {
+    color:darkred;
+    margin-left: 0;
+    text-align: justify;
+    font-weight: bold;
+    font-size: large;
+    display: inline-flex;
+    
+}
+.data_author {
+    margin-left: 60%;
+}
+.datas {
+    color: black;
+    text-align: justify;
+    
+}
